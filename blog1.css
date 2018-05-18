@@ -1,0 +1,61 @@
+#welcome {
+	color: navy;
+}
+
+#contact {
+	color: gray;
+}
+
+h2 {
+	color: teal;
+}
+
+.uppercase {
+	color: teal;
+  	text-transform: uppercase;
+	font-family: Optima;
+}
+.images {
+	background-image: url("https://cdn5.kicksonfire.com/wp-content/uploads/2018/02/Air-Jordan-1-Retro-High-OG-Bred-Toe-2-2.jpg?x76107");
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+	width: 50%;
+}
+.caption {
+	opacity: 0.75;
+	color: white;
+	background-color: black;
+	display: block;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 6px;
+	margin-left: 10px;
+	padding: 10px;
+	position: relative;
+	top: 5%;
+	width: 40%;
+}
+
+.boxgram {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/diagram-boxmodel.svg");
+    background-image: cover;
+    background-position: center;
+    height: 300px;
+    width: 50%;
+}
+
+.gramcaption {
+    opacity: 0.75;
+	color: white;
+	background-color: black;
+	display: block;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 6px;
+	margin-left: 10px;
+	padding: 10px;
+	position: relative;
+	top: 5%;
+	width: 40%;
+}
