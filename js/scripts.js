@@ -9,7 +9,7 @@ $(document).ready(function() {
     $('#header').fadeIn(10000);
 });
 
-var answer = prompt("Having a good day so far?"); 
+var answer = window.prompt("Having a good day so far?"); 
 
 if(answer === "yes"){
     alert("Fantastic!");
