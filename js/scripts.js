@@ -8,3 +8,5 @@ $(document).ready(function() {
     $('#header').hide();
     $('#header').fadeIn(10000);
 });
+
+alert("How is your day so far?");
