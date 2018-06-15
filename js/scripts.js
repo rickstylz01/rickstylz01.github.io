@@ -9,4 +9,10 @@ $(document).ready(function() {
     $('#header').fadeIn(10000);
 });
 
-alert("How is your day so far?");
+var answer = prompt("Having a good day so far?"); 
+
+if(answer === "yes"){
+    alert("Fantastic!");
+} else {
+    alert("I see.  Try to look at the bright side!");
+}
