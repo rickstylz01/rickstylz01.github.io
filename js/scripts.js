@@ -14,5 +14,5 @@ var answer = window.prompt("Having a good day so far?");
 if(answer === "yes"){
     alert("Fantastic!");
 } else {
-    alert("I see.  Try to look at the bright side!");
+    alert("I see.  Try to look on the bright side!");
 }
