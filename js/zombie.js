@@ -204,6 +204,11 @@ if(choice === "attack" || choice === "attack it") {
     outcome = "lose";
   }
 
+} 
+
+else {
+  window.alert("oops you farted and alerted the zombie.  It bit you and you died");
+  outcome = "lose";
 }
 
 if(choice === "sneak" || choice === "sneak around") {
