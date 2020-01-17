@@ -1,0 +1,11 @@
+title: Ricardo I. Maya # your name (or website title) here
+logo: "/images/rick_diamond.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Chicago Native, Born & Bred. 
+  <br><br>
+  Introduced to the world of front-end development through Codeacademy, which helped develop the basic understanding of languages such as HTML and CSS. Later, joined the "Grow with Google" scholarship program, to strengthen web development skills. Out of the box thinker, who is constantly evolving his knowledge and understanding of development tools and components. Confident in abilities and enjoys creating reactive websites.
+  <br><br>
+  <a href="https://www.linkedin.com/in/rickmaya/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
