@@ -25,6 +25,13 @@ An online community that connects people to causes they care about.  The Giving 
 HAIBAYÔ is a monthly event that celebrates Southeast Asian culture through street food, drink, and soulful vibes. Our culturally curated nighttime events energizes the historic Asia on Argyle corridor.
 
 ---
+[Todo List]
+<img src="images/todo_list.png?raw=true"/>
+<br>
+<br>
+This todo list was a project to develop the skills I already had in Rails.  You can create a todo list with items inside each individual list.
+
+---
 
 ### Development
 
