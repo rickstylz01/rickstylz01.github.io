@@ -49,7 +49,7 @@ Since participating in the “Grow with Google” scholarship program in 2017-18
 <br>
 <img src="images/GrowWithGoogleDeveloperChallengeScholarship.png?raw=true"/>
 <br>
-- [Cool Cats Coding]
+- [Cool Cats Coding](https://github.com/rickstylz01/todo)
 <br>
 Cool Cats is a collective of coding developers and engineers who provide mentoring, help, and resources to anyone who wants to learn.  I was fortunate enough to know someone who helped found the group and introduced me to the world of coding.
 <br>
